@@ -18,8 +18,9 @@
 
 * CSS
 
-* Flex-box
+* JavaScript
 
 ## Hecho por:
 
-###Josué Gonzaga
+###Josué Gonzaga López.
+###Ciudad de México, México.
